@@ -1,3 +1,5 @@
+// Problem 3: Find the longest palindrome from the given string. Palindrome is a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam, civic, radar
+
 class Solution {
     public String longestPalindrome(String s) {
         char[] charArray = s.toCharArray();
